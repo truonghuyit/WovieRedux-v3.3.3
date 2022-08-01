@@ -1,6 +1,6 @@
 # WovieRedux-v3.3.3
 WovieRedux-v3.3.3 là một CMS Pro, linh hoạt và thân thiện với người dùng để phát trực tuyến phim và phim truyền hình dài tập với hệ thống quản lý nội dung video tiên tiến
-#Các tính năng
+# Các tính năng
 Wovie đi kèm với một loạt các tính năng như:
 TMDb Nhập phim và chương trình.
 API Onesignal để thông báo cho các thành viên đã đăng ký.
@@ -16,7 +16,7 @@ Tạo sơ đồ trang web cho Google Search Console.
 Nguồn cấp RSS cho người dùng của bạn đăng ký.
 Chế độ bảo trì nếu bạn cần thực hiện một số công việc bí mật.
 Hỗ trợ nhúng tự động bằng Remote Stream 
-#Yêu cầu
+# Yêu cầu
 PHP 7.2+
 allow_url_fopen Bật
 cURL 7.19.4+
@@ -33,7 +33,7 @@ Khóa API TMDb để nhập phim và chương trình
 * Tùy chọn * Cron Jobs cho sơ đồ trang web và Nguồn cấp RSS
 #Trang Demo
 https://watcha.movie/
-#Hướng dẫn cài đặt 
+# Hướng dẫn cài đặt 
 Tải xuống phiên bản mới nhất
 Tạo cơ sở dữ liệu trong tài khoản lưu trữ của bạn, đảm bảo rằng người dùng có các đặc quyền thích hợp '
 Giải nén gói và tải tất cả các tệp lên máy chủ của bạn, đảm bảo rằng tất cả các tệp đã được tải lên
